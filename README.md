@@ -44,11 +44,11 @@ go-chi によるルーティング
 MySQL との接続・操作
 
 🛠️ 開発コマンド
-Docker コンテナの停止
+- Docker コンテナの停止
 docker-compose down
-Docker コンテナの再起動
+- Docker コンテナの再起動
 docker-compose up -d
-コンテナのログ確認
+- コンテナのログ確認
 docker-compose logs -f
 
 📝 注意事項
